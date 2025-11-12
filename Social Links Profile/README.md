@@ -150,10 +150,6 @@ This is a simple social links profile card built with HTML, CSS, and JavaScript.
             <li class="link-item"><a href="https://www.instagram.com/" class="link">Instagram</a></li>
         </ul>
     </main>
-    <script>
-        // No JavaScript is required for this static profile card, but here's a simple script if needed.
-        console.log("Social links profile loaded.");
-    </script>
 </body>
 </html>
 ```
